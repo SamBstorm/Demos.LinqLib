@@ -26,7 +26,7 @@ namespace Demos.LinqLib.LambdaExp
             FuncCustom funcAnonym = delegate (string name) { return $"Bonjour {name}"; };
             Console.WriteLine( funcAnonym("Toto") );
 
-            FuncCustom funcLambda = name => $"Bonjour {name}";
+            FuncCustom funcLambda = (name) => $"Bonjour {name}";
             Console.WriteLine( funcLambda("Titi") );
 
             CustomWriteLine(() => "Salut je suis une fonction sans class ni variable");

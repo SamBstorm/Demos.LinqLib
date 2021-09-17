@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.LinqLib.Variable", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.LinqLib.LambdaExp", "Demos.LinqLib.LambdaExp\Demos.LinqLib.LambdaExp.csproj", "{CF38FF9D-9B67-47C4-ACFB-992BFCD2A1FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.LinqLib.MethodeExt", "Demos.LinqLib.MethodeExt\Demos.LinqLib.MethodeExt.csproj", "{87C327A7-A748-4C66-BB10-15FEA12021EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.LinqLib.DiffereVSDirect", "Demos.LinqLib.DiffereVSDirect\Demos.LinqLib.DiffereVSDirect.csproj", "{C803BDFD-6A21-4300-A809-60650B725FFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CF38FF9D-9B67-47C4-ACFB-992BFCD2A1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF38FF9D-9B67-47C4-ACFB-992BFCD2A1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF38FF9D-9B67-47C4-ACFB-992BFCD2A1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C327A7-A748-4C66-BB10-15FEA12021EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C327A7-A748-4C66-BB10-15FEA12021EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C327A7-A748-4C66-BB10-15FEA12021EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C327A7-A748-4C66-BB10-15FEA12021EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C803BDFD-6A21-4300-A809-60650B725FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C803BDFD-6A21-4300-A809-60650B725FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C803BDFD-6A21-4300-A809-60650B725FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C803BDFD-6A21-4300-A809-60650B725FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
